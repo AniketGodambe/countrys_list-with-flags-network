@@ -1,0 +1,1074 @@
+{
+  
+    "data": [
+        {
+            "network_id": 242,
+            "country_name": "Albania",
+            "network": "Vodafone",
+            "country_id": 5,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/al.png",
+            "details" : [{
+                "area": "28703",
+                "population" : "2806000"
+                
+            }]
+        },
+        {
+            "network_id": 250,
+            "country_name": "Australia",
+            "network": "OPTUS Mobile",
+            "country_id": 15,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/au.png",
+            "details" : [{
+                "area": "7617930",
+                "population" : "27100000"
+                
+            }]
+        },
+        
+        {
+            "network_id": 246,
+            "country_name": "Austria",
+            "network": "A1",
+            "country_id": 16,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/at.png",
+            "details" : [{
+                "area": "83878",
+                "population" : "8979894"
+                
+            }]
+        },
+        {
+            "network_id": 248,
+            "country_name": "Bangladesh",
+            "network": "Grameen Phone",
+            "country_id": 22,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/bd.png",
+            "details" : [{
+                "area": "148460",
+                "population" : "164689383"
+                
+            }]
+        },
+        {
+            "network_id": 249,
+            "country_name": "Belgium",
+            "network": "Base",
+            "country_id": 19,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/be.png",
+            "details" : [{
+                "area": "30688",
+                "population" : "11500000"
+                
+            }]
+        },
+        {
+            "network_id": 251,
+            "country_name": "Brazil",
+            "network": "VIVO",
+            "country_id": 31,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/br.png",
+            "details" : [{
+                "area": "3300000",
+                "population" : "214000000"
+                
+            }]
+        },
+        {
+            "network_id": 252,
+            "country_name": "Bulgaria",
+            "network": "Telenor",
+            "country_id": 23,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/bg.png",
+            "details" : [{
+                "area": "110879",
+                "population" : "6840971"
+                
+            }]
+        },
+        {
+            "network_id": 253,
+            "country_name": "Cambodia",
+            "network": "Smart Axiata",
+            "country_id": 114,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/kh.png",
+            "details" : [{
+                "area": "69898 ",
+                "population" : "17300000"
+                
+            }]
+        },
+        {
+            "network_id": 244,
+            "country_name": "Canada",
+            "network": "Rogers",
+            "country_id": 38,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ca.png",
+            "details" : [{
+                "area": "3511023",
+                "population" : "36991981"
+                
+            }]
+        },
+        {
+            "network_id": 245,
+            "country_name": "Chile",
+            "network": "Entel",
+            "country_id": 41,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/cl.png",
+            "details" : [{
+                "area": "291930",
+                "population" : "17500000"
+                
+            }]
+        },
+        {
+            "network_id": 257,
+            "country_name": "China",
+            "network": "China Mobile",
+            "country_id": 42,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/cn.png",
+            "details" : [{
+                "area": "3705407",
+                "population" : "1425000000"
+                
+            }]
+        },
+        {
+            "network_id": 254,
+            "country_name": "Colombia",
+            "network": "Telefonica Moviles",
+            "country_id": 48,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/co.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 260,
+            "country_name": "Costa Rica",
+            "network": "Telefonica",
+            "country_id": 51,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/cr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 259,
+            "country_name": "Croatia",
+            "network": "A1",
+            "country_id": 96,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/hr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 258,
+            "country_name": "Cyprus",
+            "network": "CYTA",
+            "country_id": 55,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/cy.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 256,
+            "country_name": "Czech Republic",
+            "network": "Vodafone",
+            "country_id": 56,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/cz.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 255,
+            "country_name": "Denmark",
+            "network": "Telenor",
+            "country_id": 60,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/dk.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 261,
+            "country_name": "El Salvador",
+            "network": "Telefonica Moviles",
+            "country_id": 193,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/sv.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 265,
+            "country_name": "Estonia",
+            "network": "Tele2",
+            "country_id": 68,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ee.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 262,
+            "country_name": "Finland",
+            "network": "DNA",
+            "country_id": 70,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/fi.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 263,
+            "country_name": "France",
+            "network": "Free",
+            "country_id": 73,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/fr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 264,
+            "country_name": "French Guiana",
+            "network": "Digicel",
+            "country_id": 90,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gf.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 266,
+            "country_name": "Germany",
+            "network": "Telefonica O2",
+            "country_id": 57,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/de.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 270,
+            "country_name": "Ghana",
+            "network": "Vodafone",
+            "country_id": 79,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gh.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 269,
+            "country_name": "Gibraltar",
+            "network": "Gibtel",
+            "country_id": 80,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gi.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 268,
+            "country_name": "Greece",
+            "network": "Wind Hellas",
+            "country_id": 86,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 267,
+            "country_name": "Guadeloupe",
+            "network": "Digicel",
+            "country_id": 82,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gp.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 271,
+            "country_name": "Guatemala",
+            "network": "Comunicaciones Celulares",
+            "country_id": 89,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gt.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 276,
+            "country_name": "Hong Kong",
+            "network": "Hutchison 3G",
+            "country_id": 93,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/hk.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 277,
+            "country_name": "Hungary",
+            "network": "Telenor",
+            "country_id": 98,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/hu.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 274,
+            "country_name": "Iceland",
+            "network": "Nova",
+            "country_id": 105,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/is.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 275,
+            "country_name": "India",
+            "network": "IDEA",
+            "country_id": 100,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/in.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 273,
+            "country_name": "India",
+            "network": "Vodafone",
+            "country_id": 100,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/in.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 281,
+            "country_name": "Indonesia",
+            "network": "Hutchison 3",
+            "country_id": 99,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/id.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 279,
+            "country_name": "Indonesia",
+            "network": "INDOSAT",
+            "country_id": 99,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/id.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 278,
+            "country_name": "Indonesia",
+            "network": "Excel",
+            "country_id": 99,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/id.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 280,
+            "country_name": "Ireland",
+            "network": "Three Hutchison",
+            "country_id": 102,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ie.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 285,
+            "country_name": "Israel",
+            "network": "Partner",
+            "country_id": 106,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/il.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 283,
+            "country_name": "Israel",
+            "network": "Pelephone",
+            "country_id": 106,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/il.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 284,
+            "country_name": "Italy",
+            "network": "Vodafone",
+            "country_id": 107,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/it.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 297,
+            "country_name": "Latvia",
+            "network": "SIA Bite Mobile",
+            "country_id": 129,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lv.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 289,
+            "country_name": "Latvia",
+            "network": "Tele2 SIA",
+            "country_id": 129,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lv.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 290,
+            "country_name": "Liechtenstein",
+            "network": "FL1",
+            "country_id": 124,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/li.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 291,
+            "country_name": "Lithuania",
+            "network": "UAB Bite",
+            "country_id": 127,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lt.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 287,
+            "country_name": "Luxembourg",
+            "network": "Orange",
+            "country_id": 128,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lu.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 292,
+            "country_name": "Luxembourg",
+            "network": "TANGO Mobile",
+            "country_id": 128,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lu.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 293,
+            "country_name": "Malaysia",
+            "network": "Digi",
+            "country_id": 150,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/my.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 298,
+            "country_name": "Malaysia",
+            "network": "Maxis",
+            "country_id": 150,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/my.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 300,
+            "country_name": "Malta",
+            "network": "Go Mobile",
+            "country_id": 140,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/mt.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 299,
+            "country_name": "Martinique",
+            "network": "Digicel",
+            "country_id": 147,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/mq.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 303,
+            "country_name": "Moldova",
+            "network": "Orange",
+            "country_id": 133,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/md.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 306,
+            "country_name": "Myanmar",
+            "network": "Ooredoo",
+            "country_id": 141,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/mm.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 305,
+            "country_name": "Netherlands",
+            "network": "KPN",
+            "country_id": 159,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/nl.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 302,
+            "country_name": "New Zealand",
+            "network": "Vodafone",
+            "country_id": 163,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/nz.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 304,
+            "country_name": "Nicaragua",
+            "network": "Millicom",
+            "country_id": 157,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ni.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 308,
+            "country_name": "Norway",
+            "network": "Telenor",
+            "country_id": 160,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/no.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 309,
+            "country_name": "Panama",
+            "network": "Millicom",
+            "country_id": 166,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/pa.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 310,
+            "country_name": "Peru",
+            "network": "Entel",
+            "country_id": 168,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/pe.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 307,
+            "country_name": "Philippines",
+            "network": "Smart",
+            "country_id": 169,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ph.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 312,
+            "country_name": "Poland",
+            "network": "Polkomtel",
+            "country_id": 172,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/pl.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 311,
+            "country_name": "Poland",
+            "network": "P4",
+            "country_id": 172,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/pl.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 313,
+            "country_name": "Portugal",
+            "network": "NOS",
+            "country_id": 175,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/pt.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 316,
+            "country_name": "Puerto Rico",
+            "network": "Cingular",
+            "country_id": 173,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/pr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 314,
+            "country_name": "Reunion",
+            "network": "Orange",
+            "country_id": 180,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/re.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 318,
+            "country_name": "Romania",
+            "network": "Vodafone",
+            "country_id": 181,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ro.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 317,
+            "country_name": "Serbia",
+            "network": "Telenor",
+            "country_id": 245,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/serbia.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 319,
+            "country_name": "Singapore",
+            "network": "StarHub",
+            "country_id": 187,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/sg.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 320,
+            "country_name": "Slovakia",
+            "network": "O2",
+            "country_id": 199,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/sk.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 321,
+            "country_name": "Slovenia",
+            "network": "A1",
+            "country_id": 200,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/si.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 322,
+            "country_name": "South Africa",
+            "network": "Vodacom",
+            "country_id": 237,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/za.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 295,
+            "country_name": "South Korea",
+            "network": "KT",
+            "country_id": 117,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/kr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 296,
+            "country_name": "South Korea",
+            "network": "SK",
+            "country_id": 117,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/kr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 324,
+            "country_name": "Spain",
+            "network": "Vodafone",
+            "country_id": 67,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/es.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 325,
+            "country_name": "Sri Lanka",
+            "network": "Dialog Axiata",
+            "country_id": 125,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lk.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 326,
+            "country_name": "Sri Lanka",
+            "network": "Hutchison",
+            "country_id": 125,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lk.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 323,
+            "country_name": "Sri Lanka",
+            "network": "Mobitel",
+            "country_id": 125,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/lk.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 327,
+            "country_name": "Sweden",
+            "network": "Telenor",
+            "country_id": 201,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/se.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 330,
+            "country_name": "Switzerland",
+            "network": "Sunrise",
+            "country_id": 40,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ch.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 331,
+            "country_name": "Taiwan",
+            "network": "Chunghwa",
+            "country_id": 218,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/tw.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 332,
+            "country_name": "Thailand",
+            "network": "dtac",
+            "country_id": 208,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/th.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 328,
+            "country_name": "Thailand",
+            "network": "dtac",
+            "country_id": 208,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/th.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 329,
+            "country_name": "Turkey",
+            "network": "Vodafone",
+            "country_id": 216,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/tr.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 333,
+            "country_name": "Ukraine",
+            "network": "PrJSC VF",
+            "country_id": 221,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/ua.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 337,
+            "country_name": "United Kingdom",
+            "network": "O2",
+            "country_id": 77,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gb.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 335,
+            "country_name": "United Kingdom",
+            "network": "Vodafone",
+            "country_id": 77,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gb.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 334,
+            "country_name": "United Kingdom",
+            "network": "Hi3G",
+            "country_id": 77,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/gb.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 336,
+            "country_name": "United States",
+            "network": "AT&T",
+            "country_id": 224,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/us.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 338,
+            "country_name": "Uruguay",
+            "network": "Antel",
+            "country_id": 223,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/uy.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        },
+        {
+            "network_id": 339,
+            "country_name": "Vietnam",
+            "network": "Vinaphone",
+            "country_id": 231,
+            "flag": "https://geofarer-stag.s3.ap-south-1.amazonaws.com/asset/country-flags/vn.png",
+            "details" : [{
+                "area": "",
+                "population" : ""
+                
+            }]
+        }
+    ]
+}
